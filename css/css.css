@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    font-size: larger;
+    border: 1px solid black;
+    padding: 30px;
+}
+
+.container h2{
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+.container p{
+    padding-bottom: 35px;
+}
+
+.bt-preto{
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.bt-azul{
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(47, 100, 233);
+    padding: 10px;
+    border-color:  rgb(47, 100, 233);
+}
+
+.bt-azul:hover{
+    background-color: black;
+    border-color: black;
+}
+
+.leia h2{
+    padding-top: 30px;
+    margin-bottom: 10px;
+}
+
+.leia p{
+    padding-bottom: 20px;
+}
+
+img{
+    max-width: 500px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: black;
+    color: white;
+}
+
+.leia2{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.leia2 button{
+    margin-top: 20px;
+}
+
+.catalogo{
+    padding: 20px;
+}
+
